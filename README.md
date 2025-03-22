@@ -16,7 +16,7 @@
 ---
 
 ## 📚 Projects
-- 🔥 [Unified Portal for Model Curriculum Development]([https://github.com/username/project-link](https://github.com/harshitgupta2610/Aicte-portal-f))  
+- 🔥 [Unified Portal for Model Curriculum Development](https://github.com/harshitgupta2610/Aicte-portal-f)  
 - 🧘 [Yoga Heal](https://github.com/username/yoga-heal)  
 - 🍞 [Bread House](https://github.com/username/bread-house)  
 
